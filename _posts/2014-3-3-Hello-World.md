@@ -7,14 +7,9 @@ Next you can update your site name, avatar and other options using the _config.y
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-```csharp
-public class yo 
-{
-  public void doSomething()
-  {
-    // a thing
-  }
-}
+```javascript
+/* Some pointless Javascript */
+var rawr = ["r", "a", "w", "r"];
 ```
 
 
